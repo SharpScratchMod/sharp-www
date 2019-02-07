@@ -2,7 +2,7 @@
 <footer class="footer-distributed">
 	<div class="footer-right">
 		<a href="https://twitter.com/sharpscratchmod"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-		<a href="https://sharpscratchmod.cf"><i class="fa fa-globe" aria-hidden="true"></i></a>
+		<a href="https://sharpscratchmod.github.io"><i class="fa fa-globe" aria-hidden="true"></i></a>
 		<a href="https://github.com/sharpscratchmod"><i class="fa fa-github" aria-hidden="true"></i></a>
 		<a href=""><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
 
